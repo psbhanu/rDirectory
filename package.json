@@ -1,0 +1,25 @@
+{
+  "name": "rdirectory",
+  "version": "1.0.0",
+  "description": "Its a System utility to read write files or directories.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psbhanu/rDirectory.git"
+  },
+  "keywords": [
+    "read",
+    "write",
+    "directory",
+    "files"
+  ],
+  "author": "Lokendra Joshi <lokendrajoshi54@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psbhanu/rDirectory/issues"
+  },
+  "homepage": "https://github.com/psbhanu/rDirectory#readme"
+}
