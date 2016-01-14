@@ -7,10 +7,10 @@ module.exports = function(){
 			if( error ){
 				console.error(error);
 			} else {
-				console.log("________________________________________" );
 				if(stats.isFile()){
 					console.log(file);
 				} else if(stats.isDirectory()){
+					console.log("[" + file + "]");
 					listFiles(file, file, depth);
 				}
 			}
